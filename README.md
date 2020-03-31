@@ -1,2 +1,2 @@
 # hello-world
-tutorial git
+kk to hac agr q eu uso git
